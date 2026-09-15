@@ -106,13 +106,3 @@ g_var_ub <- df_sample %>%
 g_var <- g_var + scale_x_continuous(limits = c(0, 80))
 g_var_ub <- g_var_ub + scale_x_continuous(limits = c(0, 80))
 g_mu / g_var / g_var_ub
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
